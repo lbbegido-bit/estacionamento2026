@@ -18,3 +18,4 @@ API didática desenvolvida na disciplina de Programação da graduação em Sist
 ## Organização do curso
 
 O sistema será construído incrementalmente. Cada aula termina em um estado executável, registrado por um commit e, após validação, por uma tag Git no formato `aula-NN-*`.
+salva
