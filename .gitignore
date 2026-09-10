@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -31,3 +32,36 @@ build/
 
 ### VS Code ###
 .vscode/
+=======
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven e Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+
+# Variáveis de ambiente e segredos locais
+.env
+.env.*
+!.env.example
+
+# Sistema operacional
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+>>>>>>> ed49ab804f4e2c75b0cb01b66d89d411ff475faa
